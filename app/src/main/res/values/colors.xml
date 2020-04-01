@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="primary_color">#4A312A</color>
+    <color name="primary_dark_color">#2F1D1A</color>
+    <color name="tan_background">#FFF7DA</color>
+
+    <color name="category_springs">#c3e8ec</color>
+    <color name="category_beaches">#0dc6f9</color>
+    <color name="category_nature">#00CD00</color>
+    <color name="category_theme_parks">#ff3377</color>
+</resources>

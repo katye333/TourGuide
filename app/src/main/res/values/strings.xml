@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">TourGuide</string>
+
+    <string name="disney_world">Disney World</string>
+    <string name="universal_studios">Universal Studios</string>
+    <string name="busch_gardens">Busch Gardens</string>
+    <string name="sea_world">SeaWorld Orlando</string>
+    <string name="legoland">LegoLand</string>
+    <string name="adventure_island">Adventure Island</string>
+
+    <string name="little_manatee_park">Little Manatee River State Park</string>
+    <string name="osprey_trail">Osprey Trail</string>
+    <string name="lettuce_lake_park">Lettuce Lake Park</string>
+    <string name="everglade_park">Everglades National Park</string>
+    <string name="myakka_river_park">Myakka River State Park</string>
+    <string name="dry_tortugas">Dry Torugas National Park</string>
+
+    <string name="naples_beach">Naples Beach</string>
+    <string name="key_west_beach">Key West</string>
+    <string name="south_beach">South Beach</string>
+    <string name="siesta_key">Siesta Beach</string>
+    <string name="clearwater_beach">Clearwater Beach</string>
+    <string name="cocoa_beach">Cocoa Beach</string>
+
+    <string name="weeki_wachee_springs">Weeki Wachee Springs</string>
+    <string name="rock_springs">Rock Springs</string>
+    <string name="wekiwa_springs">Wekiwa Springs</string>
+    <string name="rainbow_springs">Rainbow Springs</string>
+    <string name="three_sister_springs">Three Sister Springs</string>
+    <string name="ginnie_springs">Ginnie Springs</string>
+
+    <string name="tampa">Tampa, FL</string>
+    <string name="orlando">Orlando, FL</string>
+    <string name="weeki_wachee">Weeki Wachee, FL</string>
+    <string name="apopka">Apopka, FL</string>
+    <string name="dunnellon">Dunnellon, FL</string>
+    <string name="crystal_river">Crystal River, FL</string>
+    <string name="high_springs">High Springs, FL</string>
+
+    <string name="key_west">Key West, FL</string>
+    <string name="sarasota">Sarasota, FL</string>
+    <string name="everglades">Everglades, FL</string>
+    <string name="hillsborough_county">Hillsborough County, FL</string>
+    <string name="dunedin">Dunedin, FL</string>
+    <string name="wimauma">Wimauma, FL</string>
+
+    <string name="naples">Naples, FL</string>
+    <string name="miami">Miami, FL</string>
+    <string name="clearwater">Clearwater, FL</string>
+    <string name="siesta_key_city">Siesta Key, FL</string>
+    <string name="cocoa_beach_city">Cocoa Beach, FL</string>
+
+    <string name="springs">Springs</string>
+    <string name="beaches">Beaches</string>
+    <string name="nature">Nature</string>
+    <string name="theme_parks">Theme Parks</string>
+</resources>
